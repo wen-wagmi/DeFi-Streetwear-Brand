@@ -34,7 +34,9 @@ Lack supply but high demand for merch market for different community niche (diff
 
 **Problem Statement #2**
 
-Most NFT doesn’t bring any value for their holders besides using it as a display or holding them in wallets. Some NFTs are redeemable but requires burning of tokens which defeats the prupose of NFT. An example of a redeemable NFT that requires burning of tokens. https://bntee.shop/
+Most NFT doesn’t bring any value for their holders besides using it as a display or holding them in wallets. Some NFTs are redeemable but requires burning of tokens which defeats the prupose of NFT. An example of a redeemable NFT that requires burning of tokens. 
+![image](https://user-images.githubusercontent.com/82947412/115994535-fa593980-a609-11eb-98b3-0f71cfed1e69.png)
+source: https://bntee.shop/
  
   **Current Market Outlook: **
   
