@@ -1,10 +1,10 @@
-# DeFi-Streetwear-Brand: Wen-Wagmi Whitepaper
+# A DeFi-Streetwear DAO Whitepaper
 
 
 
 **Overview:**
 
-Merch and apparels for almost all DeFi DAO communities (yearn, aave, inverse, cope, etc..) is a highly demanded market since the booming of crypto community lately yet supply is unable to satisfy these community. This is because there's only 2-3 players in the space (loldefi, sushiswag, metafactory, the 3 most reknowned ones) that are able to satisfy only a small portion of the community 
+Merch and apparels for almost all DeFi DAO communities (yearn, aave, inverse, cope, etc..) is a highly demanded market since the boom of crypto community lately yet supply is non existance. This is because there's only 2-3 players in the space (loldefi, sushiswag, metafactory, 3 of the most reknowned merch brands) that are able to satisfy only a small portion of the community 
 
 We aim to start a streetwear fashion brand that is governed the community (streetwear DAO) where anyone can design, contribute and suggest their preference for the brand. Since there are already some existing players. The following whitepaper is divided into 2 sections. The first will discuss on the further analysis of the strength and weakness of the current markets and the streetwear DAO's solution. Second section will consist of value proposition of the DAO towards the INV ecosystem as well as our roadmap for the streetwear DAO.
 
@@ -13,7 +13,7 @@ We aim to start a streetwear fashion brand that is governed the community (stree
 **Intro: **
 
 DeFi  have resulted in the booming of niche communities from ERC20 to BSC to now several other alt/side chains farmers and degenerates. These DAOs/communities as a whole have attracted many talented artists, creators and designers but are all seperated by their own niche communities. 
-Wen-Wagmi aims to be a community based streetwear brand that **aggregates** all artists, designers and creators from different DeFi niche communities in forms of collaborations to produce more value for their community in terms of **"Community Merchandise"**.
+Our brand aims to be a community based streetwear brand that **aggregates** all artists, designers and creators from different DeFi niche communities in forms of collaborations to produce more value for their community in terms of **"Community Merchandise"**.
 
  
 **Problems Statements, Current Market Outlook & Solutions: **
@@ -24,19 +24,22 @@ Lack supply but high demand for merch market for different community niche (diff
   **Current Market Outlook: **
 
    Current notable players are loldefi, sushiswag and Metafactory. 
-    - loldefi is the often go-to platform for DeFi community to pitch for their merch to be available on their webstore. However loldefi and sushiswag provides underpar designs        and lazily designed apparels imo and yet still gain large followings and hype and sales on their releases.  
-    - Sushiswag initial vision is aimed to be a community-owned and accrding to their initial tweets that they planned by distribute their profits to creators and community but        we cant really find any public discord group for the community to discuss and contribute to their growth and as far as we know its still run by one person but have now          collaborate with several artists in the space currently. Since loldefi have collaborate with the sushi team to release the "official merch" their products now are almost        similar. The only advantage sushiswag have now is through their focus on NFTs and redeemable physical items ($STIX, Sushi Energy Card)
-    - Metafactory consists of large team of creators and community but still lack the deliveries, limited choices of merch and low frequency drops due to bottleneck of DAO in          deciding "official merch" and commercial partnership sales. Their advantage is in building an ecosystem integrated with their products such as the Metaverse (gamify              items/merch) and their $ROBOT tokens which act as governance as and social coin where revenue is distributed to token holders. https://themetafactory.medium.com/rise-            robot-rise-809cfd18b4c0 .
+   
+   loldefi is the often go-to platform for DeFi community to pitch for their merch to be available on their webstore. However loldefi and sushiswag provides underpar designs        and lazily designed apparels imo and yet still gain large followings and hype and sales on their releases.  
+    
+   Sushiswag initial vision is aimed to be a community-owned and accrding to their initial tweets that they planned by distribute their profits to creators and community but        we cant really find any public discord group for the community to discuss and contribute to their growth and as far as we know its still run by one person but have now          collaborate with several artists in the space currently. Since loldefi have collaborate with the sushi team to release the "official merch" their products now are almost        similar. The only advantage sushiswag have now is through their focus on NFTs and redeemable physical items ($STIX, Sushi Energy Card)
+   
+   Metafactory consists of large team of creators and community but still lack the deliveries, limited choices of merch and low frequency drops due to bottleneck of DAO in          deciding "official merch" and commercial partnership sales. Their advantage is in building an ecosystem integrated with their products such as the Metaverse (gamify              items/merch) and their $ROBOT tokens which act as governance as and social coin where revenue is distributed to token holders. https://themetafactory.medium.com/rise-            robot-rise-809cfd18b4c0 .
 
-**Solutions: Allow collaboration between DeFi community (eg: Sushiswap, INV, etc) with the streetwear DAO to release collections which consists of merch and apparels designed by artists and designers and communities. Drops are released on the Wen-Wagmi webstore. **
+**Solutions: Allow collaboration between DeFi community (eg: Sushiswap, INV, etc) with the streetwear DAO to release collections which consists of merch and apparels designed by artists and designers and communities. Drops are released on the the brand's webstore. **
 
  
 
 **Problem Statement #2**
 
-Most NFT doesn’t bring any value for their holders besides using it as a display or holding them in wallets. Some NFTs are redeemable but requires burning of tokens which defeats the prupose of NFT. An example of a redeemable NFT that requires burning of tokens. 
+Most NFT doesn’t bring any value for their holders besides using it as a display or holding them in wallets. Some NFTs are redeemable but requires burning of tokens which defeats the prupose of NFT. 
 ![image](https://user-images.githubusercontent.com/82947412/115994535-fa593980-a609-11eb-98b3-0f71cfed1e69.png)
-source: https://bntee.shop/
+(An example of a redeemable NFT that requires burning of tokens.  source: https://bntee.shop/)
  
   **Current Market Outlook: **
   
@@ -71,10 +74,16 @@ After NFT sales, 40% of the streetwear DAO treasury, in DOLA will be used to pay
 **Roadmap:**
 
 2021 Q2: Propose for grant to kickstart the project.
+
 2021 Mid Q2: official begin the first NFT sales and opening of the webstore selling INVerse merch. 
+
 2021 Q3-Q4: build a niche community for the streetwear DAO, collaborate with communities from different DAOs to drop 'community merch' for them.
-Future: 1. For the current grant we are just proposing to kickstart our first INVerse merch drop foor the webstore.
-        2. If we have successfully launched the brand and that if our own niche community has grown to be able to sustain the brand for the longer term, the next step would be              building a DAO with governance involved (propose for the INV token to be our governance token as well since we do not issue our own social tokens, imagine INV as a              governance token for the INV bank as well for a NFT + fashion brand! ). For the streetwear DAO to be fully in effect, we proposed the INV DAO to announce an official            statement of investment of  the streetwear DAO. In traditional terms, INV DAO (as a venture capital firm) will raised a round of seed investment towards                          the streetwear DAO (fashion brand startup) for a long term partnership. From here, the streetwear DAO will leverage on the value brought towards the INV ecosystem as            stated in the value proposition above.
+
+Future: 
+1. For the current grant we are just proposing to kickstart our first INVerse merch drop foor the webstore.
+
+2. If we have successfully launched the brand and that if our own niche community has grown to be able to sustain the brand for the longer term, the next step would be              building a DAO with governance involved (propose for the INV token to be our governance token as well since we do not issue our own social tokens, imagine INV as a              governance token for the INV bank as well for a NFT + fashion brand! ). For the streetwear DAO to be fully in effect, we proposed the INV DAO to announce an official            statement of investment of  the streetwear DAO. In traditional terms, INV DAO (as a venture capital firm) will raised a round of seed investment towards                          the streetwear DAO (fashion brand startup) for a long term partnership. From here, the streetwear DAO will leverage on the value brought towards the INV ecosystem as            stated in the value proposition above.
+ 
  
 
 
