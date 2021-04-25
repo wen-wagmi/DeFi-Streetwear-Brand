@@ -85,6 +85,10 @@ Future:
 2. If we have successfully launched the brand and that if our own niche community has grown to be able to sustain the brand for the longer term, the next step would be              building a DAO with governance involved (propose for the INV token to be our governance token as well since we do not issue our own social tokens, imagine INV as a              governance token for the INV bank as well for a NFT + fashion brand! ). For the streetwear DAO to be fully in effect, we proposed the INV DAO to announce an official            statement of investment of  the streetwear DAO. In traditional terms, INV DAO (as a venture capital firm) will raised a round of seed investment towards                          the streetwear DAO (fashion brand startup) for a long term partnership. From here, the streetwear DAO will leverage on the value brought towards the INV ecosystem as            stated in the value proposition above.
  
  
+Webstore:
+https://wen-wagmi.com (access password for viewing purpose only(Store is not live yet): wagmiwagmi)
 
+Twitter:
+https://twitter.com/WenWagmi
 
 
