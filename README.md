@@ -23,11 +23,9 @@ Lack supply but high demand for merch market for different community niche (diff
  
   **Current Market Outlook: **
 
-    Current notable players are loldefi, sushiswag and Metafactory. 
+   Current notable players are loldefi, sushiswag and Metafactory. 
     - loldefi is the often go-to platform for DeFi community to pitch for their merch to be available on their webstore. However loldefi and sushiswag provides underpar designs        and lazily designed apparels imo and yet still gain large followings and hype and sales on their releases.  
-
     - Sushiswag initial vision is aimed to be a community-owned and accrding to their initial tweets that they planned by distribute their profits to creators and community but        we cant really find any public discord group for the community to discuss and contribute to their growth and as far as we know its still run by one person but have now          collaborate with several artists in the space currently. Since loldefi have collaborate with the sushi team to release the "official merch" their products now are almost        similar. The only advantage sushiswag have now is through their focus on NFTs and redeemable physical items ($STIX, Sushi Energy Card)
- 
     - Metafactory consists of large team of creators and community but still lack the deliveries, limited choices of merch and low frequency drops due to bottleneck of DAO in          deciding "official merch" and commercial partnership sales. Their advantage is in building an ecosystem integrated with their products such as the Metaverse (gamify              items/merch) and their $ROBOT tokens which act as governance as and social coin where revenue is distributed to token holders. https://themetafactory.medium.com/rise-            robot-rise-809cfd18b4c0 .
 
 **Solutions: Allow collaboration between DeFi community (eg: Sushiswap, INV, etc) with the streetwear DAO to release collections which consists of merch and apparels designed by artists and designers and communities. Drops are released on the Wen-Wagmi webstore. **
@@ -40,7 +38,7 @@ Most NFT doesn’t bring any value for their holders besides using it as a displ
  
   **Current Market Outlook: **
   
-      There are a few NFTs that are redeemable without burning of tokens such as the beeple everydays and fewo x rtfkt shoes but those are very rare and are expensive.           
+   There are a few NFTs that are redeemable without burning of tokens such as the beeple everydays and fewo x rtfkt shoes but those are very rare and are expensive.           
 
 **Solutions: More affortable redeemable NFT with a premium physical specially made with love. Every collab collections have at least one NFT edition piece. As the recent sushiswag's sushi energy card redeemable NFT, perhaps we can bring more value to our NFT through rewarding our NFT collectors with more freebies and gifts to our early adopters and supporters in later times.
 
