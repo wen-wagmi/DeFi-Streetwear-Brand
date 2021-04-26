@@ -89,6 +89,6 @@ Webstore:
 https://wen-wagmi.com (access password for viewing purpose only(Store is not live yet): wagmiwagmi)
 
 Twitter:
-https://twitter.com/WenWagmi
+https://twitter.com/WWagmi
 
 
